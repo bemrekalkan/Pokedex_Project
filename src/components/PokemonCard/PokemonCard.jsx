@@ -1,5 +1,3 @@
-// import { useEffect } from "react";
-// import { useState } from "react";
 import axios from "axios";
 import { useEffect, useState } from "react";
 import PokemonList from "../pokemonList/PokemonList";
